@@ -1,4 +1,4 @@
-# stremio-features
+Is there any way you can add a feature so you can organize my own add-ons to my liking # stremio-features
 
 Request features for the Stremio desktop, android mobile and android tv apps in the Issues section of this repository.
 
